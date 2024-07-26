@@ -1,7 +1,7 @@
 {
-  "name": "bmi-calculator-by-mussarat",
-  "version": "1.0.0",
-  "description": "BMI Calculator",
+  "name": "cli-calculator-by-mussarat",
+  "version": "1.0.2",
+  "description": "CLI Calculator",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
